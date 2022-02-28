@@ -1,2 +1,2 @@
-# curso-DIO
+# Curso-DIO
 Desafio introdução ao GitHub
