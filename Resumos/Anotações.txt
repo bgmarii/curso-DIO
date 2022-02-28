@@ -1,1 +1,28 @@
 Link GitHub : https://github.com/
+
+
+Git: sistema de versionamento de código distribuído. Ajuda a criar e monitorar diferentes formas de código. Usa linhas de comandos.
+Github: repositório de códigos.
+
+
+Comandos Git Bash: 
+dir: lista diretórios da pasta;
+cd: change directory;
+cd..: voltar um nível;
+cls: clear screen;
+tab: completa o nome automaticamente;
+mkdir: make directory, criar;
+del: deletar arquivos;
+rmdir: remove directory.
+
+SHA1: algoritmo de hash seguro; funções hash criptografadas; 40 dígitos.
+
+Blobs: guarda arquivos; tem metadados; tipo de dados...
+Tree: armazena blobs; tem metadados; guarda nome dos arquivos...
+Commit: junta todas as informações; timestamp...
+
+Commit -> Tree-> Blobs.
+
+Git status: status do arquivo.
+
+Todo comando no terminal leva o GIT na frente.
